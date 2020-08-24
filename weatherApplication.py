@@ -31,7 +31,14 @@ def get_weather(city):
 
 
 def search():
-   pass
+    city = city_text.get()
+    weather=get_weather(city)
+    if weather:
+        location_label['text'] = '{}, {}'.format(weather[0], weather[1])
+        temp_label['text'] = '{:.2f}°C, {:.2f}°F'.format(weather[2], weather[3])
+        weather_label['text'] = weather[5]
+    else:
+        messagebox.showerror('Error', 'Cannot find city called {}'.format(city))
 
 
 # Set Up View of App

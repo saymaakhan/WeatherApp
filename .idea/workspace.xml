@@ -78,7 +78,7 @@
       <workItem from="1598235124376" duration="1354000" />
       <workItem from="1598237984641" duration="4832000" />
       <workItem from="1598243138463" duration="41000" />
-      <workItem from="1598244959465" duration="6098000" />
+      <workItem from="1598244959465" duration="6517000" />
     </task>
     <servers />
   </component>
@@ -94,28 +94,28 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1598249829275" />
-    <state width="1286" height="163" key="GridCell.Tab.0.bottom" timestamp="1598249161314">
+    <state width="1286" height="163" key="GridCell.Tab.0.bottom" timestamp="1598251584236">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598249161314" />
-    <state width="1286" height="163" key="GridCell.Tab.0.center" timestamp="1598249161313">
+    <state width="1286" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598251584236" />
+    <state width="1286" height="163" key="GridCell.Tab.0.center" timestamp="1598251584236">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598249161313" />
-    <state width="1286" height="163" key="GridCell.Tab.0.left" timestamp="1598249161313">
+    <state width="1286" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598251584236" />
+    <state width="1286" height="163" key="GridCell.Tab.0.left" timestamp="1598251584236">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598249161313" />
-    <state width="1286" height="163" key="GridCell.Tab.0.right" timestamp="1598249161314">
+    <state width="1286" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598251584235" />
+    <state width="1286" height="163" key="GridCell.Tab.0.right" timestamp="1598251584236">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598249161314" />
+    <state width="1286" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598251584236" />
     <state x="390" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1598244985555">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="390" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1598244985555" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/weatherApplication$weatherApplication.coverage" NAME="weatherApplication Coverage Results" MODIFIED="1598249161296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/weatherApplication$weatherApplication.coverage" NAME="weatherApplication Coverage Results" MODIFIED="1598251584216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
