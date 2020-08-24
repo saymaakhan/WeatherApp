@@ -1,10 +1,37 @@
 from tkinter import *
+from tkinter import messagebox
+from configparser import ConfigParser
+import requests
+
+# API Configuration
+url = 'http://api.openweathermap.org/data/2.5/weather?q={}&appid={}'
+
+config_file = 'config.ini'
+config = ConfigParser()
+config.read(config_file)
+api_key = config['api_key']['key']
 
 
 # Functions
+def get_weather(city):
+    result = requests.get(url.format(city, api_key))
+    if result:
+        json = result.json()
+        city = json['name']
+        country = json['sys']['country']
+        temp_kelvin = json['main']['temp']
+        temp_celsius = temp_kelvin-273.15
+        temp_fahrenheit = (temp_kelvin-273.15) * 9 / 5 + 32
+        icon = json['weather'][0]['icon']
+        weather = json['weather'][0]['main']
+        final = (city, country, temp_celsius, temp_fahrenheit, icon, weather)
+        return final
+    else:
+        return None
+
 
 def search():
-    pass
+   pass
 
 
 # Set Up View of App
