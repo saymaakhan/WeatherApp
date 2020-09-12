@@ -1,6 +1,8 @@
 # Weather Application
 An application that displays the weather from any city across the globe. Using Open Weather Map API, application is able to retrieve and display real-time data of any location worldwide. Implemented using Python/Tkinter. 
 
+![app-image](/image.jpg?raw=true "How it looks")
+
 ## Running Application
 In order to run application, clone the project and then complete the following steps. 
 
@@ -14,4 +16,3 @@ key = <'INSERT_RANDOM_STRING_HERE'>
 ```
 
 3. Run project on your IDE. 
-![app-image](/image.jpg?raw=true "How it looks")
