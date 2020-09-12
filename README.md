@@ -14,3 +14,4 @@ key = <'INSERT_RANDOM_STRING_HERE'>
 ```
 
 3. Run project on your IDE. 
+![app-image](/image.jpg?raw=true "How it looks")
