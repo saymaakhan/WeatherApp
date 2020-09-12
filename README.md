@@ -14,5 +14,5 @@ In order to run application, clone the project and then complete the following s
 [api_key]
 key = <'INSERT_RANDOM_STRING_HERE'>
 ```
-
-3. Run project on your IDE. 
+### Run 
+1. Run project on your IDE. 
